@@ -1,4 +1,4 @@
-# River-And-Cities-Management
+# Rivers-And-Cities-Management
 
 STORY:
 The app is used by a national agency that tracks the average elevation of multiple rivers in a region.
@@ -28,7 +28,7 @@ The app is used by a national agency that tracks the average elevation of multip
     <li>One to show all the rivers and the average elevation</li>
     <li>One to show all the cities divided in three tables ( Small Risk, Medium Risk, High Risk ) </li>
   </ul>
-<li>As an engineer, you cand modify the average elevation for a river</li>
-<li>After one modification, the tables will actualise after the new average elevation</li>
+<li>As an engineer, you can modify the average elevation for a river</li>
+<li>After one change, the tables will be updated after the new average elevation</li>
   <ul>Explanation: A river travels one or more cities. If a river's average elevation is changed, the risks are recalculated for each city.</ul>
 </ul>
